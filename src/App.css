@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.page {
+  max-width: 600px;
+  margin: 0 auto;
+}
